@@ -1,51 +1,43 @@
-<h1 align="center">Hi, I'm Joshua 🫴</h1>
+<h1 align="center">Hi, I'm Joshua</h1>
 <p align="center">
-  And I love making stuff.
+  I enjoy building useful things🫴
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Software engineering student with a strong interest in **backend systems**
-- 🔍 Enjoys building scalable applications and solving real-world problems
-- 🚀 Currently learning and experimenting with **system design**
+## About
+Software engineering student focused on backend systems and scalable application design.  
+Interested in turning real-world problems into clean, maintainable software.
 
 ---
 
-### 🛠️ Tech Stack
-**Languages**
-- Python, C++, JavaScript
-
-**Frameworks & Tools**
-- React, Node.js
-- FastAPI
-- SQL
-- Git, GitHub
-
-**Interests**
-- Machine Learning
-- Backend Architecture
+## Skills
+- **Languages:** Python, C++, JavaScript
+- **Backend:** Node.js, FastAPI
+- **Frontend:** React
+- **Databases:** SQL
+- **Tools:** Git, GitHub
 
 ---
 
-### 📌 Projects
+## Projects
 - **Inventory Manager**  
-  _Full-stack application for creating stock reports_  
-  🔗 https://github.com/joshua-jacob-abraham/inventory-manager
+  Full-stack application for generating and managing stock reports  
+  https://github.com/joshua-jacob-abraham/inventory-manager
 
 - **Greeting Card Generator**  
-  _Create greeting cards for your loved ones_  
-  🔗 https://github.com/joshua-jacob-abraham/greeting-card-generator
+  Web app for creating custom greeting cards  
+  https://github.com/joshua-jacob-abraham/greeting-card-generator
 
 ---
 
-### 🌱 Currently Working On
+## Currently
 - Improving backend performance and API security
 - Writing cleaner, more maintainable code
 
 ---
 
-### 🤝 Connect With Me
-- GitHub: https://github.com/joshua-jacob-abraham
-- LinkedIn: https://www.linkedin.com/in/joshua-jacob-abraham/
-- Portfolio: https://joshua-jacob-abraham.github.io/
+## Contact
+GitHub: https://github.com/joshua-jacob-abraham  
+LinkedIn: https://www.linkedin.com/in/joshua-jacob-abraham/  
+Portfolio: https://joshua-jacob-abraham.github.io/
