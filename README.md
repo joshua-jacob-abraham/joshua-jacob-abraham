@@ -33,7 +33,7 @@
   _Full-stack application for creating stock reports_  
   🔗 https://github.com/joshua-jacob-abraham/inventory-manager
 
-- **Greeting Card Generatot**  
+- **Greeting Card Generator**  
   _Create greeting cards for your loved ones_  
   🔗 https://github.com/joshua-jacob-abraham/greeting-card-generator
 
